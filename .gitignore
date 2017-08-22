@@ -1,0 +1,6 @@
+.idea/.name
+*.iml
+.idea/misc.xml
+*.xml
+praw.ini
+responded/responded_comments.txt
